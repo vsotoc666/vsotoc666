@@ -48,6 +48,7 @@ Con experiencia liderando equipos técnicos y compitiendo a nivel nacional, busc
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/MATLAB-008080?style=flat-square&logo=latex&logoColor=white" alt="MATLAB" />
 </p>
 
 ---
