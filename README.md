@@ -48,7 +48,9 @@ Con experiencia liderando equipos técnicos y compitiendo a nivel nacional, busc
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/MATLAB-008080?style=flat-square&logo=latex&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/MATLAB-ED7B39?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Multisim-0047BA?style=flat-square&logo=ni&logoColor=white" alt="Multisim" />
+  <img src="https://img.shields.io/badge/Virtual_Machines-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware/VirtualBox" />
 </p>
 
 ---
