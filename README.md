@@ -66,7 +66,7 @@ He desarrollado arquitecturas que integran electrónica física con modelos de i
 ### 💼 Experiencia 
 
 
-* **Finalista Nacional | Competencia de Pequeños Satélites PUCP** (Marzo 2026)
+* **Finalista Nacional | Competencia de Pequeños Satélites PUCP** (Febrero 2025)
   * Participación destacada en la fase final nacional, integrando conocimientos de telemetría, electrónica aeroespacial y sistemas embebidos junto a un equipo multidisciplinario asesorado por docentes.
 
 ---
