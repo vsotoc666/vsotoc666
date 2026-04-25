@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Víctor
+# 👋 ¡Hola! Soy Victor
 
 <p align="left">
   <a href="https://www.linkedin.com/in/victor-soto-cortez-a8810a236/" target="_blank">
