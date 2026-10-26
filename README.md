@@ -72,7 +72,6 @@ Sistema hardware/software para calificar fichas ópticas automáticamente: detec
   - Integración SDR + capa MAC + bloque cognitivo de sensado espectral.
 - **Finalista Nacional | Competencia Nacional de Pequeños Satélites (CNSPS), PUCP** · *Feb. 2025*
   - Fase final nacional de lanzamiento y operación con un equipo multidisciplinario: payload de telemetría y transmisión de datos RF.
-- **Finalista (top 5) | Proceso de prácticas en Transmisión Nacional, Claro Perú** · *2026*
 
 ---
 
